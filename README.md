@@ -14,9 +14,9 @@ Uma configuracao com 3 servidores e 1 cliente sera feita.
 
 Configuracoes da rede
 
-internet - rede de acesso a internet
-projeto1 - rede dos usuarios 192.168.1.0/24
-projeto2 - rede dos servidores 192.168.2.0/24
+internet - rede de acesso a internet  
+projeto1 - rede dos usuarios 192.168.1.0/24  
+projeto2 - rede dos servidores 192.168.2.0/24  
 
 
 Firewall
