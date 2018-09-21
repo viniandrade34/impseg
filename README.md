@@ -42,3 +42,4 @@
 
 
 ### Conclusão  
+  Concluído o projeto todos os clientes somente acessarão os serviços por intermédio do proxy reverso
