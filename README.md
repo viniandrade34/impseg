@@ -10,7 +10,7 @@
 
 ### Etapas  
   Será implementado um pfSense como firewall, um serviço de páginas web com o Apache 2 e um proxy reverso com o Squid.  
-  Todos os servidores ficarão atrás de um proxy Reverso e um Firewall.  
+  Todos os servidores ficarão atrás do proxy Reverso e do Firewall.  
 
   Serao usados:
   pfSense versao 2.4.3
