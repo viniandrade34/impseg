@@ -12,10 +12,10 @@
   Será implementado um pfSense como firewall, um serviço de páginas web com o Apache 2 e um proxy reverso com o Squid.  
   Todos os servidores ficarão atrás do proxy Reverso e do Firewall.  
 
-  Serao usados:
-  pfSense versao 2.4.3
-  squid
-  Apache2
+  Serão usados:
+  pfSense versão 2.4.3
+  Squid versão 4.2
+  Apache versão 2
 
   Uma configuracao com 3 servidores e 1 cliente sera feita.
 
