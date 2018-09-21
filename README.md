@@ -52,18 +52,15 @@
 
 ##### Servidor Web
   Eth0 - 192.168.2.10  
-
-  Serviço Web rodando em Apache 2
+  Serviço Web rodando em Apache 2  
 
 ##### Proxy Reverso  
   Eth0 - 192.168.2.100  
   Eth1 - 192.168.1.100  
   Serviço de proxy reverso rodando em Squid  
-  
+
 ##### Cliente
   Eth0 - 192.168.1.2
-
-
 
 ### Conclusão  
   Concluído o projeto todos os clientes somente acessarão os serviços por intermédio do proxy reverso.  
