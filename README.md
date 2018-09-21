@@ -9,7 +9,7 @@
 ### Justificativa  
 
 ### Etapas  
-  Será implementado um pfSense como firewall, um serviço de pagina web com o Apache 2 um proxy reverso com o squid.  
+  Será implementado um pfSense como firewall, um serviço de páginas web com o Apache 2 e um proxy reverso com o Squid.  
   Todos os servidores ficarão atrás de um proxy Reverso e um Firewall.  
 
   Serao usados:
