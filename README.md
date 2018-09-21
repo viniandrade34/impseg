@@ -4,12 +4,12 @@
 ## Instituto de Ensino Superior de Brasília - IESB  
 
 ### Objetivo  
-  Implementar uma rede de segurança para proteção de servidores web em uma rede local com saída para internet.
+  Implementar uma rede de segurança para proteção de servidores web.
 
 ### Justificativa  
 
 ### Etapas  
-  Será implementado um pfSense como firewall, um serviço de pagina web com o Apache um proxy reverso com o squid.  
+  Será implementado um pfSense como firewall, um serviço de pagina web com o Apache 2 um proxy reverso com o squid.  
   Todos os servidores ficarão atrás de um proxy Reverso e um Firewall.  
 
   Serao usados:
