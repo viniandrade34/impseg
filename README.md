@@ -42,6 +42,9 @@
   Eth1 - 192.168.2.1
   Eth2 - Bridge na rede da máquina física para acesso a internet  
 
+  Configurações de firewall:
+  
+
 ##### Servidor Web
   192.168.2.10
 
