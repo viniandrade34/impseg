@@ -19,7 +19,7 @@
   Virtualbox versão 5.2.18
 
 
-  Configuracoes da rede
+  Configurações da rede
 
   internet - rede de acesso a internet  
   projeto1 - rede dos usuarios 192.168.1.0/24  
