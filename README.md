@@ -35,7 +35,9 @@
   Clientedeb  
 
 ##### Configuração das Máquinas Virtuais  
-######Firewall
+###### Firewall
+
+  Interfaces de rede:
   192.168.1.1
   192.168.2.1
 
