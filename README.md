@@ -16,8 +16,8 @@
   pfSense versão 2.4.3
   Squid versão 4.2
   Apache versão 2
+  Virtualbox versão 
 
-  Uma configuracao com 3 servidores e 1 cliente sera feita.
 
   Configuracoes da rede
 
