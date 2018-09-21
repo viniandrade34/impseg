@@ -43,5 +43,5 @@
 
 ### Conclusão  
   Concluído o projeto todos os clientes somente acessarão os serviços por intermédio do proxy reverso.  
-  Este tipo de implementação trás maior segurança para aplicação, garantindo a disponibilidade para todos  
-  os usuários
+  Este tipo de implementação trás maior segurança para as aplicações que rodam no servidor, garantindo   
+  a disponibilidade para todos os usuários
