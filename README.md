@@ -42,7 +42,7 @@
   Eth1 - 192.168.2.1
   Eth2 - Bridge na rede da máquina física para acesso a internet  
 
-  Configurações de firewall(ainda em implementação):
+  Configurações de firewall(semanalmente revisadas):
    - Bloqueado tráfego IPV4/IPV6 de pacotes com IPs inválidos na internet para saída pela porta Eth2.
    - Bloqueado o tráfego IPV4/IPV6 TCP e UDP vindos da rede dos clientes diretamente para a rede dos servidores.
    - Habilitado o tráfego IPV4/IPV6 TCP de toda rede de usuários pela porta 80 para a rede dos servidores
@@ -53,11 +53,11 @@
 ##### Servidor Web
   192.168.2.10
 
-  Proxy Reverso
+##### Proxy Reverso
   192.168.2.100
 
-  Cliente
-  192.168.1.2
+##### Cliente
+  Eth0 - 192.168.1.2
 
 
 
