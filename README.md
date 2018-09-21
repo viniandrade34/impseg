@@ -2,10 +2,7 @@
 # Instituto de Ensino Superior de Brasília - IESB
 
 ## Projeto Integrador - Implementação de Segurança  
-##### Nome: Vinicius Capitulino de Andrade - Matrícula: 1786105015    
-
-
-##                                                  Projeto de Segurança  
+## Projeto de Segurança  
 ### Objetivo  
   Implementar uma rede de segurança para proteção de servidores web.
 
