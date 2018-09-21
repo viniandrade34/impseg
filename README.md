@@ -4,6 +4,8 @@
 ## Instituto de Ensino Superior de Brasília - IESB  
 
 ### Objetivo  
+  Implementar uma rede de segurança que 
+
 Será implementado um pfSense como firewall, um serviço de pagina web com o Apache um proxy reverso com o squid.
 
 [citacoes de boas praticas na Implementação de sistemas de Segurança]
