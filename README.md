@@ -51,7 +51,9 @@
 
 
 ##### Servidor Web
-  192.168.2.10
+  Eth0 - 192.168.2.10  
+
+  Ser
 
 ##### Proxy Reverso
   Eth0 - 192.168.2.100
