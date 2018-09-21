@@ -68,6 +68,8 @@
   Eth0 - 192.168.1.2
 
 ### Conclusão  
-  Concluído o projeto todos os clientes somente acessarão os serviços por intermédio do proxy reverso.  
+  Concluído o projeto todos os clientes somente acessarão os serviços por intermédio do proxy reverso.
+  Todo tráfego vindo da interface dos usuários ou da internet será filtrado pelo firewall e repassado ao  
+  proxy reverso que intermediará as solicitações feitas aos servidores.   
   Este tipo de implementação trás maior segurança para as aplicações que rodam no servidor, garantindo   
   a disponibilidade para todos os usuários e maior performance dos serviços.
