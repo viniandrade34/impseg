@@ -22,7 +22,7 @@
   Foram instaladas quatro máquinas virtuais, sendo uma como firewall (pfSense), uma como proxy reverso (Debian 9), uma como servidor web (Debian 9) e uma como cliente (Debian 9).
 
 
-##### No virtual box foram configuradas as seguintes redes internas:  
+###### No virtual box foram configuradas as seguintes redes internas:  
   projeto1 - rede dos usuarios 192.168.1.0/24  
   projeto2 - rede dos servidores 192.168.2.0/24  
 
