@@ -53,7 +53,7 @@
 ##### Servidor Web
   Eth0 - 192.168.2.10  
 
-  Ser
+  Serviço Web rodando em Apache 2
 
 ##### Proxy Reverso
   Eth0 - 192.168.2.100
