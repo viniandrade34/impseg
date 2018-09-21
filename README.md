@@ -61,6 +61,9 @@
   Eth1 - 192.168.1.100  
   Serviço de proxy reverso rodando em Squid  
 
+  Regras do proxy reverso:
+  - Todo tráfego que chega pela porta 80 é verificado seu "payload" e entre as informações solicitadas.
+
 ##### Cliente
   Eth0 - 192.168.1.2
 
