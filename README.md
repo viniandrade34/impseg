@@ -64,7 +64,6 @@
   Regras do proxy reverso:
   - Todo tráfego que chega pela porta 80 e 443 é verificado seu "payload" e entregue as informações solicitadas dos servidores requeridos.  
 
-
 ##### Cliente
   Eth0 - 192.168.1.2
 
@@ -74,3 +73,6 @@
   proxy reverso que intermediará as solicitações feitas aos servidores.   
   Este tipo de implementação trás maior segurança para as aplicações que rodam no servidor, garantindo   
   a disponibilidade para todos os usuários e maior performance dos serviços.
+
+
+  fim
