@@ -4,7 +4,7 @@
 ## Instituto de Ensino Superior de Brasília - IESB  
 
 ### Objetivo  
-  Implementar uma rede de segurança para proteção de servidores.
+  Implementar uma rede de segurança para proteção de servidores web.
 
 ### Justificativa  
 
