@@ -25,7 +25,7 @@
 
 ###### Virtual Box
   Redes internas:  
-  projeto1 - rede dos usuarios 192.168.1.0/24  
+  projeto1 - rede dos usuários 192.168.1.0/24  
   projeto2 - rede dos servidores 192.168.2.0/24  
 
   Máquinas Virtuais:
@@ -44,6 +44,7 @@
 
   Configurações de firewall:
   1 - Habilitado o tráfego TCP de toda rede de usuários pela porta 80 para a rede dos servidores
+  2 - Habilitado qualquer tipo de tráfego saindo e entrando para a interface Eth2 com destino a rede dos usuários.
 
 ##### Servidor Web
   192.168.2.10
