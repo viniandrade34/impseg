@@ -37,8 +37,8 @@
 ##### Configuração das Máquinas Virtuais  
 ###### Firewall
 
-  Interfaces de rede:
-  192.168.1.1
+  Interfaces de rede:  
+  Eth0 - 192.168.1.1
   192.168.2.1
 
   Servidor Web
