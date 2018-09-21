@@ -62,7 +62,7 @@
   Serviço de proxy reverso rodando em Squid  
 
   Regras do proxy reverso:
-  - Todo tráfego que chega pela porta 80 e 443 é verificado seu "payload" e entre as informações solicitadas.  
+  - Todo tráfego que chega pela porta 80 e 443 é verificado seu "payload" e entregue as informações solicitadas dos servidores requeridos.  
 
 
 ##### Cliente
