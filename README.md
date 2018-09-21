@@ -43,7 +43,7 @@
   Eth2 - Bridge na rede da máquina física para acesso a internet  
 
   Configurações de firewall:
-  
+  1 - Habilitado o tráfego TCP de toda rede de usuários pela porta 80 para a rede dos servidores
 
 ##### Servidor Web
   192.168.2.10
