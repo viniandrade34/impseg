@@ -13,10 +13,10 @@
   Todos os servidores ficarão atrás do proxy Reverso e do Firewall.  
 
 ##### Softwares Usados:
-  pfSense versão 2.4.3
-  Squid versão 4.2
-  Apache versão 2
-  Virtualbox versão 5.2.18
+  pfSense versão 2.4.3  
+  Squid versão 4.2  
+  Apache versão 2  
+  Virtualbox versão 5.2.18  
 
 ##### Instalação e configuração da infraestrutura
   Foram instaladas quatro máquinas virtuais, sendo uma como firewall (pfSense), uma como proxy reverso (Debian 9), uma como servidor web (Debian 9) e uma como cliente (Debian 9).
