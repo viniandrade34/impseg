@@ -28,8 +28,12 @@
   projeto1 - rede dos usuarios 192.168.1.0/24  
   projeto2 - rede dos servidores 192.168.2.0/24  
 
-  Máquinas Viruais
-
+  Máquinas Viruais:
+  Firewall - pfSense  
+  Revproxy - Squid  
+  WebServer - Apache  
+  Clientedeb  
+  
   Firewall
   192.168.1.1
   192.168.2.1
