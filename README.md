@@ -18,8 +18,7 @@
   Apache versão 2
   Virtualbox versão 5.2.18
 
-  Foram instaladas quatro máquinas virtuais, sendo uma como firewall (pfSense), uma como proxy reverso(Debian 9), uma como servidor web  
-  uma como cliente.
+  Foram instaladas quatro máquinas virtuais, sendo uma como firewall (pfSense), uma como proxy reverso(Debian 9), uma como servidor web (Debian 9) e uma como cliente (Debian 9).
 
   Configurações da rede
 
