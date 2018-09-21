@@ -4,7 +4,7 @@
 ## Instituto de Ensino Superior de Brasília - IESB  
 
 ### Objetivo  
-  Implementar uma rede de segurança para proteção de servidores web em uma rede local.
+  Implementar uma rede de segurança para proteção de servidores web em uma rede local com saída para internet.
 
 ### Justificativa  
 
@@ -44,4 +44,4 @@
 ### Conclusão  
   Concluído o projeto todos os clientes somente acessarão os serviços por intermédio do proxy reverso.  
   Este tipo de implementação trás maior segurança para as aplicações que rodam no servidor, garantindo   
-  a disponibilidade para todos os usuários
+  a disponibilidade para todos os usuários.
