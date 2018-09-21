@@ -9,7 +9,7 @@
 ### Justificativa  
   O avanço das tecnologias criou um novo cenário onde a maioria dos serviços são providos via web.  
   A proteção em várias camadas, aliada a boas políticas de rede trazem uma maior segurança as infraestruturas de servidores.  
-  Uma implementação levando em consideração a normatização adota no Brasil e internacionalmente, no caso de sites que provêem serviços na internet, garante uma padronização de configurações que garantirão o melhor desempenho das aplicações, a disponibilidade, confiabilidade e integridade das comunicações feitas com estes servidores.
+  Uma implementação levando em consideração a normatização adota no Brasil e internacionalmente, no caso de sites que provêem serviços na internet, garantem uma padronização de configurações que garantirão o melhor desempenho das aplicações, a disponibilidade, confiabilidade e integridade das comunicações feitas com estes servidores.
 ### Etapas  
   Será implementado um pfSense como firewall, um serviço de páginas web com o Apache 2 e um proxy reverso com o Squid.  
   Todos os servidores ficarão atrás do proxy Reverso e do Firewall.  
