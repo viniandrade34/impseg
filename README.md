@@ -18,6 +18,8 @@
   Apache versão 2
   Virtualbox versão 5.2.18
 
+  Foram instaladas quatro máquinas virtuais, sendo uma como firewall, uma como proxy reverso, uma como servidor web  
+  uma como cliente.
 
   Configurações da rede
 
