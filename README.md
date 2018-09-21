@@ -45,6 +45,7 @@
   Configurações de firewall:
   1 - Habilitado o tráfego TCP de toda rede de usuários pela porta 80 para a rede dos servidores
   2 - Habilitado qualquer tipo de tráfego saindo e entrando para a interface Eth2 com destino a rede dos usuários.
+  3 - Habili
 
 ##### Servidor Web
   192.168.2.10
