@@ -4,7 +4,7 @@
 ## Instituto de Ensino Superior de Brasília - IESB  
 
 ### Objetivo  
-  Implementar uma rede de segurança para proteção dos servidores da empresa.
+  Implementar uma rede de segurança para proteção dos servidores de uma empresa.
 
 Será implementado um pfSense como firewall, um serviço de pagina web com o Apache um proxy reverso com o squid.
 
