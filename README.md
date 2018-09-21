@@ -40,8 +40,9 @@
   Interfaces de rede:  
   Eth0 - 192.168.1.1
   Eth1 - 192.168.2.1
-  Eth2 - Bridge na rede da máquina física para acesso a internet
-  Servidor Web
+  Eth2 - Bridge na rede da máquina física para acesso a internet  
+
+##### Servidor Web
   192.168.2.10
 
   Proxy Reverso
