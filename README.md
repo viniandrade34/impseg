@@ -24,11 +24,11 @@
 
 
 ###### Virtual Box
-  Foram configuradas as seguintes redes internas:  
+  Redes internas:  
   projeto1 - rede dos usuarios 192.168.1.0/24  
   projeto2 - rede dos servidores 192.168.2.0/24  
 
-
+  Máquinas Viruais
 
   Firewall
   192.168.1.1
