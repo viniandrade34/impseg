@@ -12,11 +12,11 @@
   Será implementado um pfSense como firewall, um serviço de páginas web com o Apache 2 e um proxy reverso com o Squid.  
   Todos os servidores ficarão atrás do proxy Reverso e do Firewall.  
 
-  Serão usados:
+  Softwares Usados:
   pfSense versão 2.4.3
   Squid versão 4.2
   Apache versão 2
-  Virtualbox versão 
+  Virtualbox versão 5.2.18
 
 
   Configuracoes da rede
