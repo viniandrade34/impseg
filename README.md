@@ -86,11 +86,11 @@
   
 
 ##### Cliente
-  Eth0 - 192.168.1.2
+  Enp0s3 - 192.168.1.2
 
   ![cliente](https://user-images.githubusercontent.com/26367807/48636745-e62d9e80-e9b2-11e8-9bfd-672653d7343c.png)
 
-
+  ![paginaweb](https://user-images.githubusercontent.com/26367807/48636845-2c82fd80-e9b3-11e8-9e90-54ed499f4cfb.png)
 ### Conclusão  
   Concluído o projeto todos os clientes somente acessarão os serviços por intermédio do proxy reverso.
   Todo tráfego vindo da interface dos usuários ou da internet será filtrado pelo firewall e repassado ao  
