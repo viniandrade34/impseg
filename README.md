@@ -31,6 +31,8 @@
   projeto1 - rede dos usuários 192.168.1.0/24  
   projeto2 - rede dos servidores 192.168.2.0/24  
 
+![redesinternas](https://user-images.githubusercontent.com/26367807/48631492-c9d73500-e9a5-11e8-9ca5-05f7d9947515.png)
+
   Máquinas Virtuais:
   Firewall - pfSense  
   Revproxy - Squid  
