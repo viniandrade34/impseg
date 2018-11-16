@@ -24,6 +24,7 @@
 ##### Instalação e configuração da infraestrutura
   Foram instaladas quatro máquinas virtuais, sendo uma como firewall (pfSense), uma como proxy reverso (Debian 9), uma como servidor web (Debian 9) e uma como cliente (Debian 9).
 
+![vbox](https://user-images.githubusercontent.com/26367807/48631373-85e43000-e9a5-11e8-88da-dc2d5b3d2b1b.png)
 
 ###### Virtual Box
   Redes internas:  
