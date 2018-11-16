@@ -25,7 +25,7 @@
   Foram instaladas quatro máquinas virtuais, sendo uma como firewall (pfSense), uma como proxy reverso (Debian 9), uma como servidor web (Debian 9) e uma como cliente (Debian 9).
 
 
-  Máquinas Virtuais:
+  Máquinas Virtuais:  
   Firewall - pfSense  
   Revproxy - Squid  
   WebServer - Apache  
@@ -45,13 +45,13 @@
 ###### Firewall
 
   Interfaces de rede:  
-  Eth0 - 192.168.1.1
-  Eth1 - 192.168.2.1
+  Eth0 - 192.168.1.1  
+  Eth1 - 192.168.2.1  
   Eth2 - Bridge na rede da máquina física para acesso a internet  
 
 ![redesinternas](https://user-images.githubusercontent.com/26367807/48631833-977a0780-e9a6-11e8-89c4-2b24f9e679b2.png)
 
-  Configurações de firewall(semanalmente revisadas):
+  Configurações de firewall(semanalmente revisadas):  
    - Bloqueado tráfego IPV4/IPV6 de pacotes com IPs inválidos na internet para saída pela porta Eth2.
    - Bloqueado o tráfego IPV4/IPV6 TCP e UDP vindos da rede dos clientes diretamente para a rede dos servidores.
    - Habilitado o tráfego IPV4/IPV6 TCP de toda rede de usuários pela porta 80 para a rede dos servidores
