@@ -24,20 +24,22 @@
 ##### Instalação e configuração da infraestrutura
   Foram instaladas quatro máquinas virtuais, sendo uma como firewall (pfSense), uma como proxy reverso (Debian 9), uma como servidor web (Debian 9) e uma como cliente (Debian 9).
 
+
+  Máquinas Virtuais:
+  Firewall - pfSense  
+  Revproxy - Squid  
+  WebServer - Apache  
+  Clientedeb - Debian 9
+
 ![vbox](https://user-images.githubusercontent.com/26367807/48631373-85e43000-e9a5-11e8-88da-dc2d5b3d2b1b.png)
+
 
 ###### Virtual Box
   Redes internas:  
   projeto1 - rede dos usuários 192.168.1.0/24  
   projeto2 - rede dos servidores 192.168.2.0/24  
 
-![redesinternas](https://user-images.githubusercontent.com/26367807/48631492-c9d73500-e9a5-11e8-9ca5-05f7d9947515.png)
-
-  Máquinas Virtuais:
-  Firewall - pfSense  
-  Revproxy - Squid  
-  WebServer - Apache  
-  Clientedeb  
+![redesprojeto](https://user-images.githubusercontent.com/26367807/48632050-153e1300-e9a7-11e8-9ae2-5edc5813993b.png)
 
 ##### Configuração das Máquinas Virtuais  
 ###### Firewall
@@ -46,6 +48,8 @@
   Eth0 - 192.168.1.1
   Eth1 - 192.168.2.1
   Eth2 - Bridge na rede da máquina física para acesso a internet  
+
+![redesinternas](https://user-images.githubusercontent.com/26367807/48631833-977a0780-e9a6-11e8-89c4-2b24f9e679b2.png)
 
   Configurações de firewall(semanalmente revisadas):
    - Bloqueado tráfego IPV4/IPV6 de pacotes com IPs inválidos na internet para saída pela porta Eth2.
